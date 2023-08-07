@@ -1,19 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "images": [
+    "https://robbreport.com/wp-content/uploads/2018/11/coworking-18-bapa-3400_sunset_lounge.jpg?resize=681,383",
+    "https://hips.hearstapps.com/hmg-prod/images/imagereader-3-1550604255.jpg?crop=1.00xw:0.755xh;0,0&resize=1200:*",
+    "https://img.freepik.com/premium-photo/modern-real-estate-exterior-architecture-luxury-home-beautiful-villa_31965-134273.jpg?w=740",
+    "https://www.vapf.com/blog/wp-content/uploads/2017/06/2012-06-08ImamenPostNuevaPromocionMagnoliasDesign-1080x498.jpg"
+  ]
 }
